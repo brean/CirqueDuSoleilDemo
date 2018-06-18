@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 11.43 11.43"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="cup.svg"
+   inkscape:export-filename="C:\Users\andreas\coding\UnityProjects\CirqueDuSoleilDemo\Assets\Icons\cup.png"
+   inkscape:export-xdpi="256"
+   inkscape:export-ydpi="256">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.1871844"
+     inkscape:cx="62.378377"
+     inkscape:cy="38.710721"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     scale-x="0.9"
+     units="px"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-255.86998)">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.71437502;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.0434748,258.30139 v 5.30678 c 0.020414,2.07866 6.0797292,1.99165 6.2048573,-0.0816 v -5.19797"
+       id="path4496"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.57780182;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path4498"
+       sodipodi:type="arc"
+       sodipodi:cx="5.1463861"
+       sodipodi:cy="258.36081"
+       sodipodi:rx="3.4547634"
+       sodipodi:ry="1.0493644"
+       sodipodi:start="2.7734504"
+       sodipodi:end="2.7671497"
+       sodipodi:open="true"
+       d="m 1.9231004,258.73846 a 3.4547634,1.0493644 0 0 1 1.9749002,-1.35611 3.4547634,1.0493644 0 0 1 4.4677384,0.59773 3.4547634,1.0493644 0 0 1 -1.9608252,1.35799 3.4547634,1.0493644 0 0 1 -4.4739157,-0.59345" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.71437502;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.4660458,259.87981 c 1.6898362,0.0668 1.533003,2.43118 0.081643,2.39487"
+       id="path4500"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
